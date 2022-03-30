@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" alt="Katerina Komnatnaya" src="https://avatars.githubusercontent.com/u/20788716?v=4"> 
+<img align="left" width="75" height="75" alt="Katerina Komnatnaya" src="https://avatars.githubusercontent.com/u/20788716?v=4"> 
 
 # Katerina Komnatnaya
 
