@@ -12,7 +12,7 @@
 ---
 ## About Me
 
-After training in IT, I worked as a freelancer for a long time. I want to improve my skills and get into a major campaign.
+I feel motivated and plan to complete this course.
 
 ---
 ## Skills
@@ -24,15 +24,19 @@ After training in IT, I worked as a freelancer for a long time. I want to improv
 - Git
 - Figma/Photoshop
 - WordPress/Shopify/Tilda
-- Materialize/Foundation/Bootstrap
-- Have experience with Vue.js/AngularJS 1.x
+- Materialize/Foundation/Bootstrap/Tailwindcss
+- Have experience with Vue.js/ReactJS
 
 ---
 ## Code example
 
 ```
-function multiply(a, b){
-  return a * b
+function noIfsNoButs(a, b) {
+  return [
+    `${a} is greater than ${b}`,
+    `${a} is equal to ${b}`,
+    `${a} is smaller than ${b}`
+  ][(a < b) * 2 + (a === b)];
 }
 ```
 
@@ -45,17 +49,18 @@ function multiply(a, b){
 ## Education
 
 **HTML Academy courses**
-  - HTML/CSS lvl.1
-  - HTML/CSS lvl.2
-  - JS lvl.1
-  - Animation-basics *(in progress)*
+  - HTML/CSS lvl.1, 2
+  - JS lvl.1, 2
+  - ReactJS
+  - Animation-basics
+  - Vue.js
 
 **Codecademy**
   - jQuery
   - AngularJS 1.x
-  - Vue.js *(in progress)*
+  - Vue.js
 
 ---
 ## Languages
 
-**English** - Elementary (A1)
+**English** - (A2)
